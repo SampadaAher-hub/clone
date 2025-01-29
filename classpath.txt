@@ -1,4 +1,8 @@
 "If You Don't Like The Hand That Fate's Dealt You With, Fight For A New One." - Naruto
 i love devops 
 May you live all the days of your life.
+<<<<<<< HEAD
 “Be yourself; everyone else is already taken.” 
+=======
+Enjoy our Brainy, Funny, Love, Art and Nature
+>>>>>>> 9a340ec (add c1 chenges)
